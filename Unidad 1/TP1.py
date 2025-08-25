@@ -1,6 +1,5 @@
-######## →Nombre y Apellidos: Ronar Salazar Suzeta
-################# →Matricula: 102183
-#↓↓↓
+#TRABAJO COMPLETO DE LA UNIDAD N° 1
+
 #Programa N° 1: Crear un programa que imprima por pantalla el mensaje: “Hola Mundo!”.
 #----------------------------------------------------------------------------------------------------
 print ("Hola Mundo");
